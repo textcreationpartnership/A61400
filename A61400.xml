@@ -1,0 +1,1499 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of the Babylonish cabal, or, The intrigues, progression, opposition, defeat, and destruction of the Daniel-Catchers in a poem / by Richard Steere.</title>
+            <author>Steere, Richard, 1643-1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61400</idno>
+            <idno type="STC">Wing S5397</idno>
+            <idno type="STC">ESTC R21257</idno>
+            <idno type="EEBO-CITATION">12054604</idno>
+            <idno type="OCLC">ocm 12054604</idno>
+            <idno type="VID">53133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 581:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of the Babylonish cabal, or, The intrigues, progression, opposition, defeat, and destruction of the Daniel-Catchers in a poem / by Richard Steere.</title>
+                  <author>Steere, Richard, 1643-1721.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: The history of the sham-plot, defeat, and destruction of the Daniel-catchers.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Errata: p. 43 of pt. 2.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53133:1"/>
+            <pb facs="tcp:53133:1" rendition="simple:additions"/>
+            <p>THE HISTORY OF THE Babyloniſh Cabal; OR The
+<list>
+                  <item>Intrigues,</item>
+                  <item>Progreſſion,</item>
+                  <item>Oppoſition,</item>
+                  <item>Defeat, and</item>
+                  <item>Deſtruction</item>
+               </list> Of the Daniel-Catchers; In a POEM.</p>
+            <p>By <hi>Richard Steere.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>—Nec Lex eſt juſtior ulla,</hi>
+               </l>
+               <l>
+                  <hi>Quam Necis Artifices Arte perire ſuâ.</hi>
+               </l>
+               <bibl>Ovid.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin</hi> in the <hi>Old Bayley.</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:53133:2"/>
+            <pb facs="tcp:53133:2"/>
+            <head>TO THE Right Honourable ANTHONY Earl of <hi>Shaftesbury,</hi> &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THere is hardly a kind of <hi>Perſecution</hi> more Irreſiſtible than that of <hi>Dedications.—No Monarch</hi> can defend himſelf from it, ſince the Invention of Printing. By this kind of <hi>Viſit,</hi> a <hi>Plebean</hi> (whether he <hi>Adorns</hi> or <hi>Diſgraces</hi> the <hi>Preſs,</hi> 'tis no matter) can <hi>Vault</hi> into the view of the Moſt Exalted Wits, and Moſt Renowned of Men.</p>
+            <p>If <hi>Cuſtom</hi> be any Excuſe for ſuch <hi>faſhionable Preſump<g ref="char:EOLhyphen"/>tions,</hi> I hope your <hi>Lordſhip</hi> will pardon the Boldneſs I have taken, to ſhelter this Product of ſome Retired hours, under the <hi>Prote<g ref="char:EOLhyphen"/>ction</hi> of your <hi>Honourable</hi> Name.</p>
+            <p>Some Sheets of the ſame nature were not long ſince preſented to your <hi>Lordſhip</hi> in <hi>Proſe,</hi> which Allarm'd a <hi>Silent</hi> Specta<g ref="char:EOLhyphen"/>tors <hi>Muſe,</hi> to Revive that Ingenious <hi>Paraphraſe</hi> in the Mo<g ref="char:EOLhyphen"/>dern
+<pb facs="tcp:53133:3"/> Attire of <hi>Meaſure</hi> and <hi>Cadency;</hi> which though un<g ref="char:EOLhyphen"/>adorn'd with thoſe Affected <hi>Flights</hi> of Fancy, thoſe <hi>Heaven-daring Metaphors,</hi> that (by an <hi>Antiphraſis</hi>) becautifie the Raptures of the <hi>PERPETUAL STATE-POET [the</hi> Achitophel-maker;] yet (my Lord) you will find it plain and honeſt, and expreſsive of the Sympathy which ſome of a <hi>Lower</hi> Orb, bear to the Contriv'd Sufferings of ſo <hi>Illuſtrious</hi> an Innocent as <hi>DA<g ref="char:EOLhyphen"/>NIEL</hi> was.</p>
+            <p>But who can <hi>Fall</hi> when <hi>Heaven</hi> is the <hi>Protector?</hi> Or what <hi>Machinations</hi> can proſper, when countermin'd by the <hi>Di<g ref="char:EOLhyphen"/>vinity?</hi> If Men of <hi>Meer</hi> Wit will needs wantonly Allegorize <hi>SACRED HISTORY,</hi> and by <hi>Miſapplied</hi> Parallels, throw Affronts upon our Great and <hi>Loyal States-Men,</hi> then (whether <hi>They</hi> will, or no,) Men of <hi>Loyalty</hi> will borrow Scrip<g ref="char:EOLhyphen"/>ture <hi>Artillery,</hi> and <hi>Allegorize</hi> it in a ſober Attaque, to Batter down the <hi>Babels</hi> of ſuch <hi>Daniel-Catchers.</hi>
+            </p>
+            <p>That your <hi>Lordſhip</hi> may Live <hi>Long</hi> and <hi>Happy,</hi> to ſerve your <hi>King</hi> and <hi>Country,</hi> in ſpight of all your Enemies, is the Hearty Prayer of</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Moſt <hi>Humble</hi> and Moſt <hi>Obedient</hi> Servant, <hi>R. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:53133:3"/>
+            <head>THE HISTORY Of the
+<list>
+                  <item>Sham-Plot,</item>
+                  <item>Defeat, and</item>
+                  <item>Deſtruction</item>
+               </list> Of the <hi>Daniel-Catchers,</hi> &amp;c.</head>
+            <l>BEhold how Rich, how Glorious is the Soul,</l>
+            <l>Whoſe <hi>Faith</hi> is ſtedfaſt, and without controul?</l>
+            <l>
+               <hi>Faith</hi> will the Temples with Great Glory Crown;</l>
+            <l>
+               <hi>Faith</hi> is the Hand which Takes the Bleſſing down;</l>
+            <l>
+               <hi>Faith</hi>'s the Defenſive, and Offenſive Shield,</l>
+            <l>Saves the <hi>Poſſeſſor,</hi> Makes th'Oppoſer yield.</l>
+            <l>This <hi>Abel, Enoch, Noah,</hi> in their days</l>
+            <l>Made th'Infant Earth Illuſtrious with its Rays.</l>
+            <l>
+               <hi>Abra'am</hi> was call'd the Father of this Grace,</l>
+            <l>
+               <hi>Iſaac</hi> and <hi>Jacob</hi> in his ſteps did trace;</l>
+            <l>
+               <hi>Moſes</hi> and <hi>Samuel</hi> have the ſame purſu'd,</l>
+            <l>Who as Bright Stars of the firſt Magnitude,</l>
+            <l>Dart down their ſev'ral Bright Coelſtial Rays</l>
+            <l>Upon the <hi>Church,</hi> in her more Modern days;</l>
+            <l>Who all a Glorious Conſtellation prove,</l>
+            <l>Patterns of Piety, of Faith and Love.</l>
+            <pb n="2" facs="tcp:53133:4"/>
+            <l>Can <hi>Daniel</hi> be forgot? or may he come,</l>
+            <l>And with his Fellow-<hi>Prophets</hi> take a Room,</l>
+            <l>Of Princes, and of Prophets, not the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt;</l>
+            <l>Whoſe Soul with this <hi>Eximious</hi> Faith poſſeſt,</l>
+            <l>To ſtop the Mouths of Lions, Faith is Crown'd</l>
+            <l>Becauſe our <hi>Daniel</hi> Innocent was found.</l>
+            <l>His <hi>Hiſtory</hi> ſhall be our preſent Theme,</l>
+            <l>And from that <hi>Fountain,</hi> we'l purſue the <hi>Stream,</hi>
+            </l>
+            <l>To paraphraſe upon the State of things</l>
+            <l>What <hi>Honours</hi> were conferr'd on him by Kings,</l>
+            <l>His <hi>Liſe, Impriſonment,</hi> and Sufferings,</l>
+            <l>With that ſtrong Faith which did his Soul Advance,</l>
+            <l>Working Miraculous Deliverance.</l>
+            <l>Take but a tranſient View of him, behold</l>
+            <l>How his own Book doth his own State unfold.</l>
+            <l>See how the Spirit hath diſplay'd the Sence</l>
+            <l>Of his Original, his Eminence.</l>
+            <l>He is deſcended of <hi>Illuſtrious</hi> Blood,</l>
+            <l>His Pedigree was doubtleſs Great and Good.</l>
+            <l>The Seed of <hi>Princes</hi> he appears to be,</l>
+            <l>Or ſome <hi>Prime Branch</hi> of the <hi>Nobility;</hi>
+            </l>
+            <l>His Conduct, and his Courage do proclaim</l>
+            <l>The Greatneſs of his uncontrouled <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame;</l>
+            <l>For his Great Soul ſo Manag'd all Affairs,</l>
+            <l>As he did Antitype thoſe Characters;</l>
+            <l>Nor in the Series of his Lives whole Story,</l>
+            <l>Was <hi>Daniel</hi> found to be Derogatory,</l>
+            <l>But Ornamental to his Birth and Glory.</l>
+            <l>And as in <hi>Honour,</hi> ſo in Beauty he</l>
+            <l>Arrives unto an excellent Degree;</l>
+            <l>His Graceful Preſence, Perſonage, and Face;</l>
+            <l>Perfection vie with his Interiour Grace,</l>
+            <l>Each repreſenting him Lovely and Rare,</l>
+            <l>So fairly good, or elſe ſo goodly Fair,</l>
+            <pb n="3" facs="tcp:53133:4" rendition="simple:additions"/>
+            <l>By Royal Mandate he's a Choſen one,</l>
+            <l>Attaining perfect Education,</l>
+            <l>In all the <hi>Chaldean</hi> Learning; he is Taught</l>
+            <l>The Myſteries, and Policies of State,</l>
+            <l>That he might ſtand before the <hi>King,</hi> or be</l>
+            <l>A Privy Councellor to Monarchy,</l>
+            <l>A Polliſht Pillar, fixt for the ſupport</l>
+            <l>Of Royalty, and Grandeur at the Court.</l>
+            <l>Yet he <hi>Religiouſly</hi> avoids Exceſs,</l>
+            <l>And frames his mind to be content with leſs;</l>
+            <l>The <hi>King</hi>'s delicious Dainties he denies,</l>
+            <l>And all the Fulneſs of Court Luxuries;</l>
+            <l>For <hi>Pulſe</hi> and <hi>Water</hi> are his only Fare,</l>
+            <l>Which to Great Men is an Example Rare.</l>
+            <l>His Humane parts, with Grace Divine are Crown'd,</l>
+            <l>True Wiſdom, and Great Knowledge do abound</l>
+            <l>In him; for he by God was ſanctifi'd</l>
+            <l>To be a Prophet, whereby he unty'd</l>
+            <l>The knotty and moſt intricate of Dreams.</l>
+            <l>By powerful Inſluence of Coeleſtial Beams,</l>
+            <l>Puzling <hi>Enigma</hi>'s, Viſions of the Night,</l>
+            <l>He their Interpretation brings to Light.</l>
+            <l>He fitted was for Publick Government,</l>
+            <l>Well qualifi'd for what was Eminent;</l>
+            <l>All theſe concurring fitted him to be</l>
+            <l>Truſted with all Affairs of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</l>
+            <l>The <hi>King</hi> inſpects his Wiſdom and great Worth,</l>
+            <l>His favour then to Honour calls him forth,</l>
+            <l>Makes him his Lord LIEUTENANT next the Throne</l>
+            <l>Over the Province of Great <hi>Babylon.</hi>
+            </l>
+            <l>More Honour yet the <hi>King</hi> on him confers,</l>
+            <l>Creates him Greateſt of his Treaſurers;</l>
+            <l>And as the <hi>King</hi> ſhould ſay, I cannot ſee</l>
+            <l>One of <hi>more</hi> Worth in all my Monarchy,</l>
+            <pb n="4" facs="tcp:53133:5"/>
+            <l>Heaps Honour upon Honour, adding more</l>
+            <l>Over the <hi>Magi</hi> him <hi>Chief Governour.</hi>
+            </l>
+            <l>To make his Royal Favour more complete,</l>
+            <l>
+               <hi>Daniel</hi> at Court is fixt Chief Favourite,</l>
+            <l>And now involv'd in bus'neſs for the King.</l>
+            <l>(Honours and Offices do Troubles bring,</l>
+            <l>Yet) <hi>Daniel</hi> won't neglect three times a day,</l>
+            <l>(As he did uſe) unto his God to pray.</l>
+            <l>And while his prayers mount the Throne of Grace,</l>
+            <l>All worldly Cares do to his Thoughts give place;</l>
+            <l>O happy <hi>Prince!</hi> more happy in this thing,</l>
+            <l>Whoſe Counſellors <hi>fear God, obey the King.</hi>
+            </l>
+            <l>
+               <hi>Daniel</hi> Exalted now to high Renown,</l>
+            <l>Studies the only Int'reſt of the <hi>Crown,</hi>
+            </l>
+            <l>He knew his Lord's great Intereſt would be,</l>
+            <l>To'ave Officers of ſpotleſs Loyalty;</l>
+            <l>Men<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of an Equal Spirit with his own.</l>
+            <l>Were perſons fitteſt to attend a Throne.</l>
+            <l>This Policy of his appears to be</l>
+            <l>An Act of unexampled Piety:</l>
+            <l>Next to his <hi>Prince</hi> his Loyal care extends,</l>
+            <l>And ſhews ſome ſignal Favour to his Friends,</l>
+            <l>Great Comfort to the Church in her Exile,</l>
+            <l>When Nurſing Fathers on their Children ſmile:</l>
+            <l>At his Requeſt 'twas done, th'effects were ſo.</l>
+            <l>For <hi>Shadrach, Meſhech,</hi> and <hi>Abednego,</hi>
+            </l>
+            <l>Over th'Affairs of <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abylon</hi> were ſent,</l>
+            <l>To manage Grand Affairs of Government.</l>
+            <l>See the Effects of his Induſtrious Care,</l>
+            <l>When ſuch Brave Men in publick Office are,</l>
+            <l>Whoſe publiek Spirits for the publick good,</l>
+            <l>
+               <hi>Nebuchadnezzar</hi>'s Idols have withſtood;</l>
+            <l>To which his <hi>Princes,</hi> and his <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ords</hi> of State,</l>
+            <l>Pay Homage, whilſt yet Inconſiderate.</l>
+            <pb n="5" facs="tcp:53133:5" rendition="simple:additions"/>
+            <l>Theſe Men alone with Faith and Courage fill'd,</l>
+            <l>Againſt their <hi>God</hi> and Conſcience ſcorn to yield;</l>
+            <l>They give a check to th'uncontroul'd Decree,</l>
+            <l>Shewing to <hi>God</hi> and <hi>King</hi> Fidelity.</l>
+            <l>That Impious Law, which like a Torrent ſlows,</l>
+            <l>(In honour to their <hi>God</hi>) they dare oppoſe:</l>
+            <l>Though to the Face of <hi>Inrag'd Majeſty,</hi>
+            </l>
+            <l>Confiding in their God, they dare defy.</l>
+            <l>The Fulneſs of a gen'rous Confidence,</l>
+            <l>In the Great Power of a God Immenſe,</l>
+            <l>Lifts their Reſigning Souls ſo much the higher,</l>
+            <l>Before Idolatry to chuſe the ſire.</l>
+            <l>This did the Glorious Miracle Increaſe,</l>
+            <l>Honour to <hi>God,</hi> and to <hi>Religion</hi> Peace,</l>
+            <l>Adds Credit here, and future Happineſs.</l>
+            <l>So little diſadvantage doth attend</l>
+            <l>On ſuch, as on their <hi>God</hi> and Truth depend.</l>
+            <l>Such as ſtand faſt to what they do profeſs,</l>
+            <l>Wrap themſelves up in future Happineſs;</l>
+            <l>Such honour their Profeſſion, and their <hi>God,</hi>
+            </l>
+            <l>Whoſe Faith on Kings unjuſt Commands have trod;</l>
+            <l>When in the face of Death, the King of Terrors,</l>
+            <l>By owning <hi>God,</hi> convince the World of Errors.</l>
+            <l>With Conſtancy and Courage ſuch proclaim</l>
+            <l>Triumphant Conqueſts of Eternal Fame.</l>
+            <l>With what Aſſurance do ſuch Souls convince?</l>
+            <l>There's none Infallible, no not the <hi>Prince.</hi>
+            </l>
+            <l>And he in <hi>Capitals</hi> may Read at large,</l>
+            <l>Such Men will certainly their Truſt diſcharge,</l>
+            <l>And well conclude, in ſuch he may confide,</l>
+            <l>Who from their God refuſe to turn aſide.</l>
+            <l>What Service then did <hi>Daniel</hi> to the <hi>Crown?</hi>
+            </l>
+            <l>By lifting ſuch to Places of Renown,</l>
+            <pb n="6" facs="tcp:53133:6" rendition="simple:additions"/>
+            <l>Whoſe Noble Tempers, and Heroick Souls,</l>
+            <l>Their <hi>Princes</hi> Laws, when againſt God, controuls.</l>
+            <l>How happy is that <hi>Prince,</hi> whoſe Grand Affairs</l>
+            <l>Are lodged in ſuch Noble Breaſts as theirs.</l>
+            <l>Who rather yield their Lives to Death, than be</l>
+            <l>Actors of Treaſon againſt Soveraignty.</l>
+            <l>Theſe are no Pimping Sycophants, that win</l>
+            <l>Court-Favour, by alluring <hi>Kings</hi> to ſin,</l>
+            <l>No, their Brave Minds Debauches will explode,</l>
+            <l>And all leud Pleaſures that affront their <hi>God.</hi>
+            </l>
+            <l>They'l rather have their Lives before him laid,</l>
+            <l>Than yield his Intereſt ſhould be betray'd,</l>
+            <l>Ere they'l diſhonour God, or ſlatter Men,</l>
+            <l>Or ſtifle Conſcience, they'l to Fire or Den,</l>
+            <l>Which Truth in time makes glorious agen,</l>
+            <l>Thus Richly cloath'd with Graces, <hi>Daniel</hi> lives,</l>
+            <l>Belov'd of all thoſe State-Superlatives.</l>
+            <l>Th'Eternal Being often doth Recite,</l>
+            <l>
+               <hi>Daniel</hi> the Prophet is a Favourite;</l>
+            <l>What greater Honour can on Mortals be,</l>
+            <l>Than be Beloved of the Deity?</l>
+            <l>His Prince that Mighty Monarch alſo loves him,</l>
+            <l>For he a holy, prudent States-man proves him,</l>
+            <l>In whoſe high Favour he ſecurely dwells,</l>
+            <l>Wiſdom and Piety in him excels.</l>
+            <l>In the whole Series of this Monarch's Reign,</l>
+            <l>What Great Eſteem his Worthineſs did gain,</l>
+            <l>
+               <hi>Nebuchadnezzar</hi>'s Honour did maintain:</l>
+            <l>Alas! what's this? what ſweet Repoſe can be,</l>
+            <l>Within the Arms of Earthly Majeſty?</l>
+            <l>When ſome at Princes Favours do arrive,</l>
+            <l>In their Eſteem they no where elſe can live.</l>
+            <l>Thoſe warm Embraces of a Prince's Love,</l>
+            <l>Chills their Devotion that it cannot move,</l>
+            <l>To ſeek Repoſe Eternally above.</l>
+            <pb n="7" facs="tcp:53133:6"/>
+            <l>Not walking in thoſe paths which <hi>Daniel</hi> trod,</l>
+            <l>Who thought his greateſt Good was <hi>nigh his God,</hi>
+            </l>
+            <l>For he conſults an Earthly Prince muſt die,</l>
+            <l>Therefore ſeeks Peace with <hi>Divine Majeſty.</hi>
+            </l>
+            <l>And Piety can no Aſſurance give,</l>
+            <l>He ſhall ſecure in Princes Favours Live:</l>
+            <l>The leaſt Affront of Royalty deſtroys</l>
+            <l>All hope of comfort in Terreſtrial Joys:</l>
+            <l>Or if by Death a Monarch be remov'd,</l>
+            <l>The next Succeſſor hates the Man he lov'd.</l>
+            <l>
+               <hi>Daniel</hi> Divinely may the World convince,</l>
+            <l>There's no fixation on an earthly Prince:</l>
+            <l>When that Great King <hi>Nebuchadnezzar</hi>'s gone,</l>
+            <l>
+               <hi>Daniel</hi> forbears Attendance on the Throne.</l>
+            <l>But for what cauſe our Prophet did retire,</l>
+            <l>Whether his <hi>God</hi> his Service did require;</l>
+            <l>Or whether <hi>King Belſhazzar</hi> diſapprov'd</l>
+            <l>Whom his Grandfather had in honour lov'd;</l>
+            <l>Or whether Time had Razed out the Fame</l>
+            <l>Of his Memorials, or obſcur'd his Name;</l>
+            <l>Or whether by his diſtance from the Court,</l>
+            <l>The <hi>King</hi> had loſt the Fame of his Report;</l>
+            <l>Or for what other cauſe to me unknown,</l>
+            <l>He ſeems a perfect ſtranger to the Throne,</l>
+            <l>Until a Hand without an Arm affords</l>
+            <l>Strange characters both to the King and Lords;</l>
+            <l>For they carouzing were in fluvious Bouls,</l>
+            <l>Till the Almighty's Hand their Mirth controuls,</l>
+            <l>Which did with Terrour ſuch Amazement bring</l>
+            <l>To this ſo Potent, but now Trembling King.</l>
+            <l>He ſtraightway did to his Magicians ſend,</l>
+            <l>Who inſtantly on his Commands attend;</l>
+            <l>But all in vain, for Mortals cannot ſee</l>
+            <l>Th'Interpretation of the Heav'ns Decree.</l>
+            <pb n="8" facs="tcp:53133:7"/>
+            <l>No other Spirit can the thing declare,</l>
+            <l>But his, whoſe Hand did write the Character.</l>
+            <l>The Aged <hi>Queen</hi> to the Young <hi>King</hi> doth tell,</l>
+            <l>Excelling Wiſdom doth in <hi>Daniel</hi> dwell;</l>
+            <l>Send Meſſengers for him, in him alone</l>
+            <l>Is found Divine Interpretation:</l>
+            <l>He's come, <hi>Belſhazzar</hi> highly doth adore him,</l>
+            <l>
+               <hi>Honour</hi> and <hi>Dignity</hi> are laid before him,</l>
+            <l>Which of no worth he modeſtly refuſes,</l>
+            <l>The <hi>King</hi> may give his Gifts to other uſes.</l>
+            <l>Yet will he ſerve his <hi>God</hi> and <hi>King</hi> in this,</l>
+            <l>To let the <hi>King</hi> know what God's meaning is.</l>
+            <l>No Flattery from <hi>Daniel</hi>'s Lips will flow,</l>
+            <l>But the <hi>King</hi> ſhall his Fatal Ruine know,</l>
+            <l>And who but <hi>Daniel</hi> dares to tell him ſo?</l>
+            <l>The clear Divine All ſeeing Eye behold,</l>
+            <l>That he the Scepter was unfit to weild,</l>
+            <l>When in the Heav'nly Ballance he was weigh'd</l>
+            <l>He was too light, the Scale turn'd Retrograde.</l>
+            <l>And though on Earth he was a <hi>Monarch Crown'd,</hi>
+            </l>
+            <l>Fitter for <hi>Tomb</hi> than <hi>Empire</hi> he was found.</l>
+            <l>
+               <hi>Eſau</hi> his Birth right greedily devours,</l>
+            <l>So he prophanely drinks an Emperours.</l>
+            <l>No Cups ſo well could pleaſe his Impious mind,</l>
+            <l>As what for ſacred uſes were deſign'd:</l>
+            <l>Upbraiding Heaven, daring to deſy</l>
+            <l>The Infinite All Ruling Deity;</l>
+            <l>Having forgot the Generation paſt,</l>
+            <l>When's Grandfather with Beaſts had his Repaſt,</l>
+            <l>Became a grater Brute in brutiſh ſort,</l>
+            <l>Turning into a <hi>Bachanale</hi> his Court,</l>
+            <l>Forgetting he was Mortal, and muſt dye,</l>
+            <l>And paſs Account with <hi>Divine Majeſty;</hi>
+            </l>
+            <pb n="9" facs="tcp:53133:7"/>
+            <l>No wonder that the God Omnipotent,</l>
+            <l>This ſudden Summons to <hi>Belſhazzar</hi> ſent;</l>
+            <l>No Variation in this firm Decree;</l>
+            <l>He who is all Immutability,</l>
+            <l>Signs with his Hand the <hi>King</hi>'s Mortality.</l>
+            <l>Yet ere he goes to his Eternal Port,</l>
+            <l>He will Exalt Good <hi>Daniel</hi> in his Court,</l>
+            <l>Thereby to Bribe the <hi>Heavens</hi> to reprieve,</l>
+            <l>And to Revoke the Doom, that he may Live.</l>
+            <l>
+               <hi>Daniel</hi> a Friend of <hi>God</hi>'s, he did Eſteem,</l>
+            <l>Was Policy to make <hi>God</hi> Friends with him;</l>
+            <l>Therefore proclaims him, by his Great Command,</l>
+            <l>To be the Third <hi>Chief Ruler</hi> in his Land.</l>
+            <l>But then alas! what ſudden Change, how ſoon</l>
+            <l>Low, Earthly Glory is from Mortals gone?</l>
+            <l>Honour and Riches make them Wings, and fly,</l>
+            <l>As Streams do leſſen when the Fountain's dry.</l>
+            <l>The <hi>King</hi> that night is ſummon'd to the duſt,</l>
+            <l>Where his prophane Acts do his Glories Ruſt.</l>
+            <l>The Prophecy's fulfill'd, the <hi>King</hi> muſt come</l>
+            <l>Unto his <hi>Judgment,</hi> and Eternal Doom.</l>
+            <l>When next <hi>Darius</hi> (mounts the Loſty Throne,)</l>
+            <l>The <hi>Mede</hi> is now <hi>King</hi> of <hi>Great Babylon.</hi>
+            </l>
+            <l>Fame to his Ears <hi>Daniel</hi>'s great worth makes known.</l>
+            <l>In whom was found ſo Excellent a Soul,</l>
+            <l>Whoſe temperate mind his paſſions could controul.</l>
+            <l>The Aged <hi>King</hi> by his Grave Wiſdom knows,</l>
+            <l>This weighty Crown will be too ponderous</l>
+            <l>For his Gray Head, his Age conſults his Eaſe,</l>
+            <l>And therefore chuſeth ſixſcore Deputies:</l>
+            <l>And over them he conſtituteth three,</l>
+            <l>The Beſt Beloved of his Monarchy,</l>
+            <l>To whom all thoſe accountable muſt be:</l>
+            <pb n="10" facs="tcp:53133:8"/>
+            <l>And of theſe Three, although Beloved all,</l>
+            <l>
+               <hi>Daniel</hi>'s Commiſſion is for Principal.</l>
+            <l>The Prime and Greateſt Miniſter of State,</l>
+            <l>And Next Immediate to the <hi>Potentate.</hi>
+            </l>
+            <l>His Honours now with Greateſt Luſtre, we</l>
+            <l>May in the <hi>Zenith</hi> of his Glories ſee,</l>
+            <l>Now <hi>Lord High Preſident</hi> of great Renown,</l>
+            <l>Over the Counſels that attend the Crown;</l>
+            <l>And o're the Treaſures of <hi>Darius</hi> State,</l>
+            <l>His Government is next <hi>Immediate.</hi>
+            </l>
+            <l>Nor did the <hi>King</hi> his Favours thus beſtow,</l>
+            <l>Ere he had Reaſon for his doing ſo;</l>
+            <l>For his ſerene and well pois'd Judgment found</l>
+            <l>Faith, Prudence, Policy in him abound.</l>
+            <l>A Spirit of ſo Excellent a frame,</l>
+            <l>That his deſerts laid to his Honours claim.</l>
+            <l>But he no ſooner Mounted is above,</l>
+            <l>In full poſſeſſion of his Prince's Love;</l>
+            <l>No ſooner on the wing of Favour flyes,</l>
+            <l>To Lofty Honours vaſt Tranſcendencies,</l>
+            <l>Though ne're ſo juſtly merited, and due,</l>
+            <l>Black-Envious-Rankard-Spirits will purſue,</l>
+            <l>With eager mind<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fill'd with Revengeful hate,</l>
+            <l>What may eclipſe the Greatneſs of their State,</l>
+            <l>What between them and Honour (though Belov'd</l>
+            <l>By their Great Sov'raign) muſt be now remov'd.</l>
+            <l>What, ſhall an Alien Lord it over me?</l>
+            <l>One of the Children of Captivity?</l>
+            <l>Shall we that are the Natives of the Land,</l>
+            <l>In our own Country bend to his Command?</l>
+            <l>Shall he <hi>Monopolize</hi> our Princes Love,</l>
+            <l>While we like Clouds below his Glories move?</l>
+            <l>How can you bear your <hi>Princes, Lords</hi> &amp; Peers?</l>
+            <l>Shall <hi>Babel</hi>'s Honours be a Forreigners?</l>
+            <pb n="11" facs="tcp:53133:8"/>
+            <l>Let us Remove him, he once being gone,</l>
+            <l>Then our Acceſs is nigher to the Throne.</l>
+            <l>While many ſtrive for Honour here, how few</l>
+            <l>Do the Eternal Crown of Life purſue.</l>
+            <l>Immortal Honour ſuch a Drug is grown,</l>
+            <l>They'l rather ſatisfie themſelves with none;</l>
+            <l>For the ſame Eye which for the one doth ſtrive,</l>
+            <l>Cannot the value of the other give.</l>
+            <l>Methinks I ſee their Cabal Counſel croud</l>
+            <l>Under the covert of a ſooty Cloud,</l>
+            <l>Shaking their PLOT-CONTRIVING CASE OF BRAINS,</l>
+            <l>Taking all dext'rous and laborious pains,</l>
+            <l>Gaping for Breath, whilſt others lend an Ear,</l>
+            <l>And each by turns commences Counſeller.</l>
+            <l>This will not do, ſays one, th'other replies,</l>
+            <l>How ſhall we dreſs him for Our Sacrifice?</l>
+            <l>Then how they ſcratch their Heads, &amp; bite their Nails,</l>
+            <l>When this, and that, and th'other Counſel fails.</l>
+            <l>Are his State Miniſtrations all ſo Juſt?</l>
+            <l>Can we not find him vary in his Truſt?</l>
+            <l>Let's his Attendants <hi>bribe,</hi> for they may ſee</l>
+            <l>Something Defective in his Family.</l>
+            <l>Can it be poſſible he Err'd not? or</l>
+            <l>May not ſome words confound the Orator?</l>
+            <l>May we not artificially expound,</l>
+            <l>If but a doubtful ſyllable be found</l>
+            <l>Drop from his Lip? what e're th'occaſion be,</l>
+            <l>Treaſon is meant againſt His Majeſty.</l>
+            <l>Thus with malicious undermining Arts,</l>
+            <l>Their conſultation at his Honour darts;</l>
+            <l>What ſhall we do? is there no hope to bring</l>
+            <l>Some guilty Accuſation to the <hi>King?</hi>
+            </l>
+            <l>Can we not find ſome colourable Story</l>
+            <l>Diminutive to Dignity and Glory?</l>
+            <pb n="12" facs="tcp:53133:9"/>
+            <l>Can we not dive into his Inmoſt part?</l>
+            <l>May not ſome Trait'rous Thought lodge in his heart?</l>
+            <l>Which we might <hi>ſqueez</hi> into a Treas'nous ſenſe,</l>
+            <l>And publickly produce for Evidence;</l>
+            <l>But is his Soul too, Innocent and clear?</l>
+            <l>And no hope left for an <hi>Endictment</hi> here?</l>
+            <l>Curſe of his Faith, his Loyalty, his Truſt;</l>
+            <l>Would he were not, unleſs he were unjuſt.</l>
+            <l>Our Circumſpection ought to be our care,</l>
+            <l>Which while unguarded, does invite a ſnare;</l>
+            <l>For with our Greateſt Diligence we ſcarce</l>
+            <l>Repel thoſe <hi>Darts</hi> that would our Honours pierce;</l>
+            <l>Great Perſonages cannot be <hi>too wiſe</hi>
+            </l>
+            <l>For their Conſpiring, Plotting Enemies;</l>
+            <l>Whoſe greedy Luſts, their Int 'reſt to advance,</l>
+            <l>Dare ſwear Men <hi>Traitors</hi> by their <hi>Coumenance.</hi>
+            </l>
+            <l>But to their Honour, let the World admire,</l>
+            <l>They <hi>without Evidence</hi> could not <hi>conſpire;</hi>
+            </l>
+            <l>Let it remain unto poſterity,</l>
+            <l>As a Remarque of HEATHEN PIETY,</l>
+            <l>Theſe Heathen Conſpirators ſcorn to foul,</l>
+            <l>
+               <hi>With Baſe Degen'rate Perjury, the Soul.</hi>
+            </l>
+            <l>Though their Revenge ſo fiercely they engage,</l>
+            <l>Baſe <hi>Subornation</hi> muſt not help their Rage;</l>
+            <l>They will not <hi>Damn</hi> their <hi>Souls</hi> for thoſe they hate,</l>
+            <l>Foul Perjury meer <hi>Heathen</hi> boggle at.</l>
+            <l>
+               <hi>Rome</hi> doth from <hi>Hell</hi> ſuch Impious Cuſtoms fetch,</l>
+            <l>Which conſciencious Heathens <hi>ſcorn</hi> to teach,</l>
+            <l>Such Monſtrous Births as theſe can never come,</l>
+            <l>But from that <hi>Hydra Triple Crown</hi> of <hi>Rome,</hi>
+            </l>
+            <l>Who iſſues Diſpenſations and Commiſſions,</l>
+            <l>Grants to the Greateſt Villanies Permiſſions,</l>
+            <l>
+               <hi>Rapine, Rebellion, Treaſon, Fire</hi> and <hi>Blood,</hi>
+            </l>
+            <l>Is the Religion of this vip'rous Brood.</l>
+            <pb n="13" facs="tcp:53133:9"/>
+            <l>Can EIGHTY EIGHT, th' accurſed POWDER-PLOT,</l>
+            <l>And STROMBOLONIAN LONDON be forgot?</l>
+            <l>So many Living Monuments appear,</l>
+            <l>Proves <hi>Rome</hi> more Impious than the <hi>Heathens</hi> were.</l>
+            <l>May <hi>Heav'ns</hi> Dread Anger drive this Torrent home,</l>
+            <l>With all their Fry to <hi>Lucifer</hi> or <hi>Rome.</hi>
+            </l>
+            <l>And may their <hi>Plots</hi> and <hi>Shams</hi> confounded be,</l>
+            <l>Ere they arrive to full Maturity.</l>
+            <l>Mean time, <hi>O Lord,</hi> protect the Innocent,</l>
+            <l>And all <hi>Rome</hi>'s Curſed Black Deſigns prevent.</l>
+            <l>To their Cabal let us Return, and there</l>
+            <l>We find our Plotting Politicks deſpair</l>
+            <l>Of the Succeſs, in all they have deſign'd,</l>
+            <l>Nothing defective in him they can finds;</l>
+            <l>For his Allegiance to his Prince is ſuch,</l>
+            <l>They cannot <hi>Daniel</hi>'s Reputation touch.</l>
+            <l>And this Deſpair makes them conſult their Wits,</l>
+            <l>Since this, nor that, nor th'other project hits.</l>
+            <l>It is propos'd, and the Propoſal finds</l>
+            <l>An univerſal One and All, their Minds</l>
+            <l>Concur, they at Religion will begin,</l>
+            <l>To find his holy Duty to be ſin;</l>
+            <l>For his Exact Obedience to his God</l>
+            <l>Muſt be the Snare, the Trap, the Net, the Rod,</l>
+            <l>His dear Devotions, (which though he eſteem)</l>
+            <l>Muſt be the Cord by which we'll ſtrangle him.</l>
+            <l>Get the <hi>Decree</hi> but ſign'd, (the work is done,)</l>
+            <l>Then let him pray, and End what we Begun,</l>
+            <l>Pray to the Grave, each Motion of his Breath</l>
+            <l>In prayer to his God, he prays to death.</l>
+            <l>Say, is't agreed, My Lords? is this the way?</l>
+            <l>
+               <hi>Nemine Contradicente,</hi> bears the ſway.</l>
+            <l>There needs no greater Judgment upon thoſe,</l>
+            <l>Whoſe Conſultations do the Heav'ns oppoſe.</l>
+            <pb n="14" facs="tcp:53133:10"/>
+            <l>They that 'gainſt <hi>God</hi> their cloſe Devices bend,</l>
+            <l>His Honour is engaged to defend;</l>
+            <l>They who conſpire 'gainſt Divine Majeſty,</l>
+            <l>In their own <hi>Plots</hi> ſhall their own Ruine ſee;</l>
+            <l>For he that ſhoots at Piety and Grace,</l>
+            <l>Hits <hi>God</hi> himſelf directly in the Face;</l>
+            <l>That Malice which one ſingle Soul doth wound,</l>
+            <l>Would, if it could, the Deity confound.</l>
+            <l>This new Contrivance hits ſo rarely well,</l>
+            <l>The humour of it doth ſo much Excel</l>
+            <l>All they have done, or thought upon before,</l>
+            <l>Th'Invention they are ready to adore.</l>
+            <l>O how they chuckle! how they bleſs their wits,</l>
+            <l>For being ſuch Ingenious Counterfeits!</l>
+            <l>The Rare Intexture of this Plot ſhuts out</l>
+            <l>All kind of Room for Jealouſie, or Doubt;</l>
+            <l>It cannot miſs, it is ſo ſtrongely laid,</l>
+            <l>He muſt deny his <hi>God,</hi> or be betray'd;</l>
+            <l>If he be Juſt to him, his Life is ours,</l>
+            <l>This Bleſt Invention makes us Conquerours.</l>
+            <l>Thus the <hi>Decree,</hi> with general Aſſent,</l>
+            <l>Paſſes the <hi>Peers,</hi> as Votes in <hi>Parliament,</hi>
+            </l>
+            <l>Who with unanimous Reſults agree,</l>
+            <l>And for Aſſent, Addreſs His Majeſty.</l>
+            <l>They by a <hi>Law</hi> Enact him <hi>God</hi> on Earth,</l>
+            <l>And whoſo owns another it is death:</l>
+            <l>The <hi>God</hi> of <hi>Heaven</hi> now muſt be deny'd,</l>
+            <l>And in his Room the <hi>King</hi> is Dein'd;</l>
+            <l>To him each Soul muſt his Devotions pay,</l>
+            <l>And to no other <hi>Deity</hi> muſt pray;</l>
+            <l>For all Petitions muſt be ſpread before him;</l>
+            <l>They as a <hi>God</hi> for thirty daies adore him,</l>
+            <l>Allowing <hi>God,</hi> as School boys for their Plays,</l>
+            <l>An undivided Month of holy days;</l>
+            <pb n="15" facs="tcp:53133:10"/>
+            <l>And whoſo dares in thirty daies to pray</l>
+            <l>To any other God, his Life ſhall pay.</l>
+            <l>O <hi>King Darius,</hi> thou art mounted high.</l>
+            <l>Who ſays you're Gods? when <hi>God</hi> ſays you muſt die</l>
+            <l>Thoſe Tributes due to <hi>Caeſar</hi> I will pay,</l>
+            <l>But who makes man a <hi>God?</hi> doth man betray?</l>
+            <l>Thoſe Honours and Prerogatives, which be</l>
+            <l>The proper Rights of Earthly Majeſty;</l>
+            <l>I in obedience to my God will bring</l>
+            <l>And pay as due unto my <hi>Soveraign King.</hi>
+            </l>
+            <l>But thoſe that Kings Exalt to that degree,</l>
+            <l>As they did <hi>Herod</hi> by their Flattery,</l>
+            <l>Are none of <hi>Caeſar</hi>'s Friends, for God above</l>
+            <l>Now for his Honour is oblig'd to move,</l>
+            <l>And with his ſlaming Darts, and Arrows keen,</l>
+            <l>Lets Mortal Kings know that they are but Men.</l>
+            <l>Thus that Blaſphemous Rout, the <hi>Papal</hi> Tribe,</l>
+            <l>My Ink's not black enough for to deſcribe,</l>
+            <l>How have they Deifi'd their Idol <hi>Pope?</hi>
+            </l>
+            <l>
+               <hi>(Our Great Lord God)</hi> he'd more become a Rope.</l>
+            <l>
+               <hi>Darius</hi> ne'r conſults from whence might ſpring</l>
+            <l>The Branches of this new promoted thing,</l>
+            <l>Blinded with Honour and Ambition, he</l>
+            <l>Could not Inſpect his Nobles Hattery;</l>
+            <l>The Treacherous Deſign was hid from him,</l>
+            <l>He did it perfect Loyalty Eſteem,</l>
+            <l>Some Policy of State that might procure</l>
+            <l>A Grandeur of his Empire more ſecure,</l>
+            <l>That in his Glory he might brighter ſhine,</l>
+            <l>And therefore doth more eaſily incline;</l>
+            <l>Eſpecially ſince he has but of late,</l>
+            <l>Mounted the <hi>Babylonian</hi> Throne of State;</l>
+            <l>Thoſe proffer'd Honours he doth not withſtand,</l>
+            <l>But the <hi>Decree</hi> ſigns with his Royal hand.</l>
+            <pb n="16" facs="tcp:53133:11"/>
+            <l>This Mortal Monarch, <hi>King of Babylon,</hi>
+            </l>
+            <l>Juſtles th'<hi>Immortal Being</hi> from his Throne;</l>
+            <l>But his Ambitious, Daring, Raſh Deſign,</l>
+            <l>Calls from an Angry <hi>God,</hi> Revenge Divine.</l>
+            <l>A <hi>Raſh Reſult!</hi> ſuch may repent too late,</l>
+            <l>Who anſwer firſt, ere they premeditate;</l>
+            <l>To do, and then conſider, is it good,</l>
+            <l>T'anſwer a queſtion ere 'tis underſtood?</l>
+            <l>Thus I this ſenſleſs fancy underſtand,</l>
+            <l>It ſhall be ſo; what was't you did demand?</l>
+            <l>Men may pretend great Politicks to be,</l>
+            <l>But ſuch an Act is far from Policy,</l>
+            <l>To do, and then to ſay, what have I done?</l>
+            <l>Would I had let this Stratagem alone,</l>
+            <l>Looks like the Fool deſcrib'd by <hi>Solomon.</hi>
+            </l>
+            <l>A wiſe man's Tongue is in his Heart, for he</l>
+            <l>Ere he reſolves, looks what th'effect will be</l>
+            <l>The <hi>Plot</hi> is laid, <hi>Sagacious Daniel</hi> ſees</l>
+            <l>This an Intrigue laid by his Enemies,</l>
+            <l>His piercing Judgment ſoon informs his mind,</l>
+            <l>That his Deſtruction's by their Plots deſign'd,</l>
+            <l>In that Decree did <hi>Daniel</hi> plainly Read,</l>
+            <l>His Execution firmly was Decreed.</l>
+            <l>Yet 'tis below his Generous Soul to move</l>
+            <l>One ſtep from <hi>God,</hi> his firm Devotions prove,</l>
+            <l>How little he doth dread their Stratagem;</l>
+            <l>He bids Defiance both to it and them.</l>
+            <l>He ſcorns to Live, Death he will rather chuſe,</l>
+            <l>And will his Life before his Duty loſe.</l>
+            <l>Ere he will want Communion with his God,</l>
+            <l>For thirty daies, he'l paſs that Bloody Road</l>
+            <l>Which they provided for him, their Decree</l>
+            <l>Muſt be his way to Immortality:</l>
+            <pb n="17" facs="tcp:53133:11"/>
+            <l>If the True Ends of Life he cannot have,</l>
+            <l>'Tis not worth Living, <hi>better chuſe the Grave.</hi>
+            </l>
+            <l>Death is the only way to ſet him free,</l>
+            <l>The Port that lets in to Eternity,</l>
+            <l>Where he may commune with his God by prayer;</l>
+            <l>
+               <hi>Daniel</hi> reſolves to ſerve him here or there.</l>
+            <l>No ſooner had that Royal Hand and Pen</l>
+            <l>Sign'd that Inſnaring Law, but theſe Great Men</l>
+            <l>Turn all <hi>Informers,</hi> greedy of their prey,</l>
+            <l>How to Inſnare, Trapan, Accuſe, Betray</l>
+            <l>The <hi>Lord High Preſident,</hi> for he alone</l>
+            <l>Their Object is, he ſits too nigh the Throne;</l>
+            <l>How do they <hi>ſneak</hi> about his houſe, and creep</l>
+            <l>Under the windows, and through crannies peep.</l>
+            <l>Methinks I ſee how covertly they ſtand,</l>
+            <l>Each a <hi>Dark Lanthorn</hi> in his trembling hand,</l>
+            <l>Their eaſie Footſteps, and their watchful Ears,</l>
+            <l>With their dumb ſigns, and ſilent charecters,</l>
+            <l>That nothing might impede, but that they may</l>
+            <l>Through their own ſilence hear the Prophet pray.</l>
+            <l>O how their hopes do ſwell, their blood doth riſe!</l>
+            <l>When they behold the Caſement open flies!</l>
+            <l>How their hearts leap for Joy, their Souls revive,</l>
+            <l>In hope this opportunity will thrive!</l>
+            <l>And he Brave Spirit, ſcorning to Retire,</l>
+            <l>Or to obſcure the thing which they deſire,</l>
+            <l>Doth that on purpoſe to confirm their Ears,</l>
+            <l>That they, nor yet their Impious Law he fears:</l>
+            <l>But his Devotions to his God will pay,</l>
+            <l>And in Deſpite of their Decree will pray.</l>
+            <l>The wings of Faith and Zeal, mount him above</l>
+            <l>Fear of <hi>Darius</hi> hate, or hope of Love.</l>
+            <l>Shall <hi>Daniel</hi> his Beloved <hi>God</hi> diſown?</l>
+            <l>Or wear a Mask on his Religion?</l>
+            <pb n="18" facs="tcp:53133:12"/>
+            <l>No, 'tis below the Greatneſs of his Soul,</l>
+            <l>To ſtain Religion with an act ſo foul;</l>
+            <l>As not to do the thing he does profeſs,</l>
+            <l>He from his Principles will not digreſs;</l>
+            <l>His holy Reſolutions bear the ſway,</l>
+            <l>His God in ſpight of Mortals he'l obey.</l>
+            <l>No ſooner have their piercing Eyes inſpection</l>
+            <l>Of the leaſt Motion towards <hi>Genuflection;</hi>
+            </l>
+            <l>When they behold thoſe ſacred Joynts to bend,</l>
+            <l>How greedily their Eyes his Motions tend,</l>
+            <l>How his preparatory Sighs they mind?</l>
+            <l>What they have ſought, now they expect to find.</l>
+            <l>They diligently hearken, not for zeal,</l>
+            <l>Their Itching Ears wait but for an Appeal,</l>
+            <l>That they might hear his voice, ſo as to prove</l>
+            <l>It was directed to a <hi>God</hi> above.</l>
+            <l>And though the Heavens, (as if the force they felt</l>
+            <l>At his pathetical Expreſſions) melt,</l>
+            <l>A different Effect in them it ſeals,</l>
+            <l>Their putrid hearts it hardens or congeals.</l>
+            <l>Illuſtrious Prophet, little do we know</l>
+            <l>What various Paſſions in thy mind doth flow;</l>
+            <l>Within thy ſacred Breaſts ſuch thoughts may live,</l>
+            <l>Nature 'gainſt Grace, Grace againſt Nature ſtrive.</l>
+            <l>Or thou art Extaſi'd beyond the cares</l>
+            <l>Of thy terreſtrial, tranſient, low affairs.</l>
+            <l>Surely thy Soul ſlies upwards to its Reſt,</l>
+            <l>Sweet Divine Raptures iſſue from thy Breaſt,</l>
+            <l>Methinks I hear thy heav'nly thoughts expreſt.</l>
+            <l>And muſt I now forſake my God, or pay</l>
+            <l>My Life to Man, if I my God obey,</l>
+            <l>Muſt I on ſuch unhappy terms as theſe</l>
+            <l>Forfeit my Life, or God of Life diſpleaſe?</l>
+            <pb n="19" facs="tcp:53133:12"/>
+            <l>Shall the confederating Heathens ſay,</l>
+            <l>Die <hi>Daniel,</hi> die, or Heav'n diſobey?</l>
+            <l>Muſt my Devotions hurl me to the Grave?</l>
+            <l>Muſt Prayer kill, which is a means to ſave?</l>
+            <l>'Tis worſe than Death to live one day alone,</l>
+            <l>Without Acceſs to the <hi>Coeleſtial Throne;</hi>
+            </l>
+            <l>How then ſhall I with Thirty Daies diſpence?</l>
+            <l>What's Life, when Means of Life is baniſh'd hence?</l>
+            <l>Muſt I upon my Lips theſe Fetters wear?</l>
+            <l>Muſt my Affections and my Tongue forbear</l>
+            <l>To call upon my God? my Hope, my Truſt,</l>
+            <l>No, let me Die e're I do prove unjuſt.</l>
+            <l>Rather let Beaſts a paſſage tear, and free</l>
+            <l>My Captive Soul from its Captivity;</l>
+            <l>That it may to Eternal Manfions ſly,</l>
+            <l>And take poſſeſſion of Eternity.</l>
+            <l>Now let them Rend me from <hi>Darius</hi> Love,</l>
+            <l>For that their Heav'n is, but mine's above.</l>
+            <l>My Body is the <hi>King</hi>'s, at his Command,</l>
+            <l>But my dear Soul is in my Maker's hand;</l>
+            <l>To the fierce <hi>Lions</hi> I'll become a prey,</l>
+            <l>E're I my <hi>God</hi>'s Commands will diſobey.</l>
+            <l>The <hi>Heathens</hi> ſhall not glory over me,</l>
+            <l>Nor yet Rejoyce in my Apoſtacy.</l>
+            <l>Hold, pauſe a little <hi>Daniel,</hi> do'ſt not ſly</l>
+            <l>Upon thy winged <hi>Zeal</hi> at pitch too high?</l>
+            <l>Are all the ſweets of Life of no eſteem?</l>
+            <l>Will not this <hi>Daring Act</hi> Self-murder ſeem?</l>
+            <l>If thou deſtroy thy Life, which thou may'ſt ſpare?</l>
+            <l>Will <hi>God</hi>-incourage a Self-murderer?</l>
+            <l>Why wilt thou vainly caſt thy ſelf away?</l>
+            <l>Is't not ſufficient in thy thoughts to pray?</l>
+            <l>The Ceremony's but the outward ſhell,</l>
+            <l>Will not <hi>Ejaculation</hi> do as well?</l>
+            <pb n="20" facs="tcp:53133:13"/>
+            <l>God is a Spirit, if thy Spirit move,</l>
+            <l>He thy Devotion will as well approve;</l>
+            <l>What from thy Soul's moſt ſecret Altar flies,</l>
+            <l>Will be accepted as a Sacrifice;</l>
+            <l>God the Deſires of the Humble meets,</l>
+            <l>And ſighs to him from contrite hearts, are ſweet;</l>
+            <l>Mental Devotion to thy Soul is free,</l>
+            <l>Which countermines their damn'd Conſpiracy.</l>
+            <l>Ah! no, theſe weak Temptations cannot find</l>
+            <l>Admittance to <hi>Appal</hi> his Noble Mind:</l>
+            <l>
+               <hi>Daniel</hi> to buy his Life, won't ſell his God:</l>
+            <l>But in thoſe paths which he before had trod,</l>
+            <l>He ſtill will move; his Soul muſt ſtill have vent;</l>
+            <l>His Lips muſt call on the Omnipotent;</l>
+            <l>He with his <hi>Speech</hi> his God ſtill glorifies,</l>
+            <l>Though his Deſtruction in his Duty lies;</l>
+            <l>Though he ſhould ſwiftly pray himſelf to Air,</l>
+            <l>He will approach his <hi>God</hi> in vocal prayer;</l>
+            <l>He'l rather to the Lions be a prey,</l>
+            <l>Than to neglect his Duty for a day;</l>
+            <l>And while his Enemies do ſtrictly watch,</l>
+            <l>He to his <hi>God</hi> in prayer doth approach;</l>
+            <l>He ne're regards his Crafty OBSERVATOR,</l>
+            <l>But thus Exalts his Voice to his Creator.</l>
+            <floatingText xml:lang="eng" type="prayer">
+               <body>
+                  <head>The Prayer.</head>
+                  <l>
+                     <hi>ALmighty</hi> and <hi>Omnipotent Jehove,</hi>
+                  </l>
+                  <l>Thou <hi>Glorious</hi> and <hi>Eternal God</hi> above,</l>
+                  <l>Whoſe Habitation is <hi>Eternal</hi> Light,</l>
+                  <l>My <hi>God,</hi> in Thee <hi>Alone</hi> is my delight;</l>
+                  <l>O thou, whoſe Fulneſs only doth poſſeſs</l>
+                  <l>
+                     <hi>Immenſity,</hi> and <hi>Everlaſtingneſs.</hi>
+                  </l>
+                  <l>Lord, what is Man, the Son of Man, that thou</l>
+                  <l>Thy Glorious Ear to ſuch an one doſt bow?</l>
+                  <l>O how illuſtrious is thy Grace when we</l>
+                  <l>Are made the Objects of thy Clemency!</l>
+                  <pb n="21" facs="tcp:53133:13"/>
+                  <l>To Thee, <hi>O Lord,</hi> to Thee <hi>Alone</hi> I bend,</l>
+                  <l>O let my prayers to thy Throne aſcend!</l>
+                  <l>What is <hi>Darius, Lord?</hi> whom Men advance;</l>
+                  <l>Can he as <hi>God,</hi> command Deliverance:</l>
+                  <l>Such would Invade the Glory of thy Throne,</l>
+                  <l>Who make their Deity a Mortal one;</l>
+                  <l>A God they do adore, who cannot ſave</l>
+                  <l>Either himſelf, or others from the Grave.</l>
+                  <l>Pardon, O pardon their blaſphemous Deed.</l>
+                  <l>O let thy Mercies all their Guilt exceed;</l>
+                  <l>Though their Deſign was principally laid,</l>
+                  <l>My Divine Priviledges to Invade;</l>
+                  <l>They would debar me from Acceſs to Thee,</l>
+                  <l>They would eclipſe that glorious Liberty,</l>
+                  <l>And draw a Curtain 'twixt my <hi>God</hi> and me.</l>
+                  <l>Lord, what is life to me, unleſs I may</l>
+                  <l>(Life of my Soul,) the <hi>God</hi> of Life obey?</l>
+                  <l>Open the Door of Grace, <hi>O Lord,</hi> that I</l>
+                  <l>May to the Boſom of thy Favour fly;</l>
+                  <l>O let me praiſe thee, let my only Aim</l>
+                  <l>Be in my day to glorifie thy Name.</l>
+                  <l>
+                     <hi>Lord,</hi> I am in thy hand, grant me thy pow'r,</l>
+                  <l>That over Death I may be Conquerer.</l>
+                  <l>Give me a holy Courage, that I may</l>
+                  <l>Triumph in <hi>Death,</hi> ere Heaven diſobey;</l>
+                  <l>And let my Sacrifice effectual prove,</l>
+                  <l>To tell the world, <hi>God only</hi> dwells above.</l>
+                  <l>Redeem thy Church,—</l>
+               </body>
+            </floatingText>
+            <l>—But then O ſtrange ſurpriſe,</l>
+            <l>With Vulgar Tumults, and exalted cryes.</l>
+            <l>The houſe with loud Allarms is begirt round,</l>
+            <l>The horrid Noiſe his pure Devotions drown'd;</l>
+            <l>The <hi>Conſpirators</hi> with a full mouth'd cry,</l>
+            <l>Bawl, Treaſon, Treaſon, 'gainſt His Majeſty.</l>
+            <pb n="22" facs="tcp:53133:14"/>
+            <l>And with a Guard ſurpriſe his proſtrate Soul,</l>
+            <l>Whoſe thoughts were mounted far above the Pole,</l>
+            <l>Bring him away, <hi>Darius</hi> cannot ſave</l>
+            <l>Him, from the paunches of a Living Grave;</l>
+            <l>They without <hi>Perjury</hi> could ſafely ſwear,</l>
+            <l>He to the God of Heaven made his prayer;</l>
+            <l>And now their Plot is to perfection brought,</l>
+            <l>They have obtain'd the only thing they ſought,</l>
+            <l>For in the ſnare the Innocent is caught.</l>
+            <l>And now how briskly do they paſs to Court!</l>
+            <l>Happy is he can give the firſt Report,</l>
+            <l>And to <hi>Darius</hi> Ears Evidence bring,</l>
+            <l>Of one that prays to <hi>God,</hi> and not the <hi>King.</hi>
+            </l>
+            <l>But with what ſubtilty do they proceed!</l>
+            <l>To make more ſure what lately was decreed;</l>
+            <l>They the Tranſgreſſor do at firſt obſcure,</l>
+            <l>To make the Law ſtronger, or more ſecure.</l>
+            <l>For they well knew, the <hi>King</hi> ſo well did love him,</l>
+            <l>Nothing could from his <hi>Princely</hi> Favour move him.</l>
+            <l>He would diſpence <hi>Prerogative,</hi> but he</l>
+            <l>Would ſet his Beſt Beloved <hi>Daniel</hi> free,</l>
+            <l>If he foreſaw what they by Craft obſcure.</l>
+            <l>His Royal Word they once again procure;</l>
+            <l>That whoſoere denies what is Decreed,</l>
+            <l>The Rav'ning Beaſts ſhall on his Body feed;</l>
+            <l>This once obtain'd, theſe Politicks proceed:</l>
+            <l>One who pretends to Loyalty and Truſt,</l>
+            <l>Proves to your Sacred Majeſty unjuſt.</l>
+            <l>Your <hi>Royal</hi> Law, which all ought to obey,</l>
+            <l>And as a Debt unto your Greatneſs pay,</l>
+            <l>Is diſeſteem'd, ſlighted, and countermanded,</l>
+            <l>As though, <hi>Dread Lord,</hi> you had it not commanded;</l>
+            <l>One whom to Honour, you have lifted high,</l>
+            <l>Scorns to obey your <hi>Sacred Majeſty.</hi>
+            </l>
+            <pb n="23" facs="tcp:53133:14"/>
+            <l>Ungrateful Rebel! Traitor to the Crown,</l>
+            <l>Which did Exalt him to ſo high Renown;</l>
+            <l>His high Diſdain on your <hi>Decree</hi> hath trod,</l>
+            <l>And will not own <hi>Darius</hi> is a <hi>God,</hi>
+            </l>
+            <l>But prayes to ſomething which to us doth ſeem</l>
+            <l>To be at greater Diſtances from him:</l>
+            <l>For to the <hi>Heav'ns,</hi> and not unto your <hi>Throne,</hi>
+            </l>
+            <l>He is Exalted in Devotion.</l>
+            <l>This vile pernicious Ill Example may,</l>
+            <l>Intice your Subjects in their minds aſtray,</l>
+            <l>After ſome other <hi>God,</hi> and ſo deprive</l>
+            <l>
+               <hi>Darius</hi> of his Great Prerogative.</l>
+            <l>Shall he not Die? ſhall not the Law proceed?</l>
+            <l>Hath not our <hi>God Darius</hi> ſo Decreed?</l>
+            <l>I cannot change nor alter my Decree,</l>
+            <l>Bring forth the Traitor inſtantly to me,</l>
+            <l>And then produce your Witneſs; which is he?</l>
+            <l>This <hi>Daniel</hi> is the Man, this Captive Slave,</l>
+            <l>That dares your Great and Royal Law outbrave.</l>
+            <l>
+               <hi>Daniel,</hi> dear <hi>Daniel,</hi> oh, what have I done!</l>
+            <l>I Iſſu'd out my Raſh Reſolves too ſoon;</l>
+            <l>Ah! you in this have Rent from me a Jem,</l>
+            <l>Of equal value with my Diadem.</l>
+            <l>My Soul is wounded for this Raſh Decree,</l>
+            <l>Which puts a Period to all Loyalty;</l>
+            <l>For in his Breaſt ſuch faithfulneſs did dwell,</l>
+            <l>His unexampl'd Love did all excel:</l>
+            <l>And muſt I loſe him? muſt he be Remov'd?</l>
+            <l>Shall I be diſpoſſeſt of what I Lov'd?</l>
+            <l>Ah! what Diſtraction wounds my troubled Breaſt?</l>
+            <l>Of what I moſt eſteem'd, I'm diſpoſſeſt.</l>
+            <l>Who could imagine that your ſnare was laid</l>
+            <l>Againſt your <hi>King,</hi> whoſe Int'reſt is betray'd?</l>
+            <pb n="24" facs="tcp:53133:15"/>
+            <l>In this vile Act, by which is overthrown</l>
+            <l>The ſtrongeſt Pillar that ſupports my Throne,</l>
+            <l>My Glorious State will totter when he's gone.</l>
+            <l>This is ſo far from Loyalty and Truſt,</l>
+            <l>As it proclaims you hateful and unjuſt</l>
+            <l>To me, whom you in ſcorn a God have made,</l>
+            <l>By which my only Angel is betray'd.</l>
+            <l>What ſhall I ſay? you're Enemies of Peace,</l>
+            <l>Who hate what is your Sov'raigns Happineſs;</l>
+            <l>For I in him alone was happy made,</l>
+            <l>But now too late I find we're both betray'd;</l>
+            <l>I was a <hi>King,</hi> would I had been content,</l>
+            <l>Without Invading the Omnipotent.</l>
+            <l>But I too late my Errours have ſurvey'd,</l>
+            <l>
+               <hi>Darius</hi> and his <hi>Daniel</hi> is betray'd.</l>
+            <l>Unhappy <hi>Daniel,</hi> thy unhappy State</l>
+            <l>Makes Thee an Object both of Love and Hate;</l>
+            <l>Thy <hi>King</hi> his ſingular Reſpects doth ſhow,</l>
+            <l>The Nobles hate Thee to thy overthrow.</l>
+            <l>He, if he could, thy Honours would ſupport.</l>
+            <l>But they deſign to Tear Thee from the Court,</l>
+            <l>And with a voice unanimous they cry,</l>
+            <l>Deliver <hi>Daniel</hi> to us, he muſt Die.</l>
+            <l>To ſatisfie the Law, why was it made?</l>
+            <l>If <hi>Kings</hi> their own Prerogatives Invade.</l>
+            <l>The <hi>King</hi> demurs, unwilling to proceed;</l>
+            <l>His hand would cancel what he has Decreed.</l>
+            <l>How willing would His <hi>Majeſty</hi> Reprieve,</l>
+            <l>Although for once he ſtrain'd Prerogative.</l>
+            <l>But ſince their Plot hath had ſo good ſucceſs,</l>
+            <l>They will again impatiently addreſs;</l>
+            <l>Nor will they be deny'd of their Demand.</l>
+            <l>The <hi>King</hi> himſelf ſhall not the Law withſtand,</l>
+            <l>But void of manners ſawcily proceed,</l>
+            <l>To tell the <hi>King</hi> the Law he once Decreed,</l>
+            <pb n="25" facs="tcp:53133:15"/>
+            <l>He cannot change, nay ſhall not, nor is able,</l>
+            <l>The <hi>Medes</hi> and <hi>Perſians</hi> Law's unalterable.</l>
+            <l>And though the <hi>King</hi> the <hi>Kingdom's Laws</hi> would null,</l>
+            <l>We will be ſatisfied to the full;</l>
+            <l>
+               <hi>Daniel</hi> muſt Die, why doth the <hi>King</hi> contrive</l>
+            <l>What by that Law is dead, to keep alive?</l>
+            <l>In vain <hi>Darius</hi> thy protecting hands</l>
+            <l>Strive to preſerve, what thy own Law commands.</l>
+            <l>To Dire Deſtruction, thou in Honour muſt</l>
+            <l>Doom thy Indeared Fav<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rite to Duſt.</l>
+            <l>The <hi>King</hi> Commands; but O what Inward Care!</l>
+            <l>What Grief, what Soul-ſick Trouble, what Deſpair</l>
+            <l>Approach his Royal Breaſt! he ſighs, he grieves,</l>
+            <l>He weeps and ſobs when he the Sentence gives.</l>
+            <l>Ah Da-Da-<hi>Daniel,</hi> whom I Lo-Lo-Love,</l>
+            <l>Thy De De-Death muſt th-th-Thee Remove,</l>
+            <l>The Se-Se-Sentence I cannot deny,</l>
+            <l>Dear <hi>Daniel,</hi> thou M-M-M-M-muſt Die.</l>
+            <l>And now farewel thou matchleſs Peer, adieu,</l>
+            <l>My Brighteſt Star I never more ſhall view.</l>
+            <l>Thou moſt Illuſtrious, True and Loyal one;</l>
+            <l>Thou Greateſt Treaſure of an Earthly Throne.</l>
+            <l>Never was <hi>King</hi> ſo happily poſſeſt,</l>
+            <l>Never was any Mortal <hi>Monarch</hi> Bleſt</l>
+            <l>With ſuch a Faithful Servant, ſuch a Flow'r,</l>
+            <l>The only Glory of an <hi>Emperour.</hi>
+            </l>
+            <l>But thou art mounting to Eternal Joyes.</l>
+            <l>Beyond the Light, Low, Mean, and Trivial Toyes</l>
+            <l>Of Earthly Honours, where thou ſhalt be Bleſt</l>
+            <l>In Glorious Manſions of Eternal Reſt;</l>
+            <l>Freely could I diſ-robe my ſelf of State,</l>
+            <l>And leave to be an Earthly Magiſtrate,</l>
+            <l>To change my ſelf to Spirit, and to ſly</l>
+            <l>With my Dear <hi>Daniel</hi> to Eternity.</l>
+            <pb n="26" facs="tcp:53133:16"/>
+            <l>But that I ſtay behind to ſacrifice</l>
+            <l>Whole Hecatombs of th'Impious Enemies,</l>
+            <l>To thy unſpotted, uncorrupted mind.</l>
+            <l>They my avow'd ſevere Revenge ſhall find.</l>
+            <l>Deſtruction as a Recompence I'll pay</l>
+            <l>To thoſe who did thy Innocence betray.</l>
+            <l>But ſtay my thoughts, is not that <hi>God</hi> the ſame</l>
+            <l>Who met his Servants in the furious Flame?</l>
+            <l>My Faith perſuades me to a firm belief,</l>
+            <l>Thy <hi>God</hi> will ſhew his Pow'r, and ſend Relief,</l>
+            <l>And leſt thy Enemies the ſame ſhould fear,</l>
+            <l>And ſo conſult to ſend ſome Murderer,</l>
+            <l>More cruel than the Rav'nous Lions are.</l>
+            <l>I to prevent any ſuch Black Deſign,</l>
+            <l>With my own Signet will the Priſon ſign;</l>
+            <l>I'll ſeal thee up to the protecting hand,</l>
+            <l>Of thy own <hi>God,</hi> the <hi>God</hi> of Sea and Land.</l>
+            <l>How ſtately to the Den doth <hi>Daniel</hi> move,</l>
+            <l>Laden with Trophies of his <hi>Prince</hi>'s Love?</l>
+            <l>Cloath'd with the Graces of his <hi>God</hi> is he,</l>
+            <l>Armed in holy Armour, <hi>Cap a Pe.</hi>
+            </l>
+            <l>He nothing leaves behind him that may ſeem.</l>
+            <l>Needful to take to Heav'n along with him.</l>
+            <l>Thoughts of Revenge he doth ſo much deſie,</l>
+            <l>As he can wiſh his greateſt Enemy</l>
+            <l>An equal ſhare in Glory with his own,</l>
+            <l>Whoſe Malice ſought his Dire Deſtruction:</l>
+            <l>Thoſe who did cauſleſly his Life betray,</l>
+            <l>For their Eternal Happineſs he'l pray.</l>
+            <l>How like an <hi>Iſaac</hi> is our <hi>Daniel</hi> come?</l>
+            <l>Ready to paſs from th' Altar to the Tomb;</l>
+            <l>Behold th'unſpotted Sacrifice is dreſt.</l>
+            <l>On which the Prieſtly <hi>Lions</hi> are to feaſt;</l>
+            <l>But to his wonder and amazement finds,</l>
+            <l>Their Savage Nature vary from their kinds;</l>
+            <pb n="27" facs="tcp:53133:16"/>
+            <l>What Miracle is here, this fatal Den,</l>
+            <l>Preſents more Favour than Inraged Men.</l>
+            <l>More Friendſhip in the <hi>Lions</hi> Den is ſhown,</l>
+            <l>Than in the <hi>Royal Court</hi> of <hi>Babylon.</hi>
+            </l>
+            <l>A <hi>Glorious Spirit</hi> did his Soul inveſt,</l>
+            <l>True Righteouſneſs was fixed in his Breaſt;</l>
+            <l>He was begirt with Truth and Innocence:</l>
+            <l>Theſe were his Arms, or Armour of Defence;</l>
+            <l>His <hi>Adamantine</hi> Shield he held ſo faſt,</l>
+            <l>As made him <hi>Lion-proof;</hi> they'l rather faſt,</l>
+            <l>Nay ſtarve, than taſt, or touch ſuch heav'nly Food,</l>
+            <l>And Die with Thirſt, ere drink his ſacred Blood:</l>
+            <l>Civil inſtead of ſavage they appear;</l>
+            <l>They crouch, ſubmit, and fill'd with awe and fear,</l>
+            <l>They tremble e're attempt in Rage t'abuſe,</l>
+            <l>Whom neither <hi>God,</hi> nor yet the <hi>King</hi> accuſe.</l>
+            <l>Thus <hi>Daniel</hi> in his Duty ſtands before</l>
+            <l>His <hi>God,</hi> and <hi>God</hi> Demands of him no more;</l>
+            <l>He yields his Life, his Faith to teſtifie,</l>
+            <l>And rather than be falſe to <hi>God</hi> will Die;</l>
+            <l>Whoſe life the hand of providence protects,</l>
+            <l>He ſhall not Die that thus his life neglects,</l>
+            <l>But he ſhall freely keep, what freely he</l>
+            <l>Offer'd to give, it ſhall Reſtored be;</l>
+            <l>The heav'nly Power's ingag'd to ſet him free.</l>
+            <l>The Royal <hi>King</hi> in Mourning Robes is dreſt,</l>
+            <l>His Thoughts abandon any kind of Feaſt;</l>
+            <l>His Mourning Soul faſts for his Beſt Belov'd,</l>
+            <l>Which Envy from him had to Death Remov'd;</l>
+            <l>All kind of Mirth is baniſh'd from the Court,</l>
+            <l>No Jovial paſtimes, no delightful ſport,</l>
+            <l>Can have admittance there; the <hi>King</hi>'s in tears,</l>
+            <l>Whoſe Grief creates Remorſeneſs in his Peers;</l>
+            <l>No work for Fidlers, Interludes or Playes,</l>
+            <l>Mourning is hung upon the Poets Bayes.</l>
+            <pb n="28" facs="tcp:53133:17"/>
+            <l>No Singing, Dancing, no delightful Airs</l>
+            <l>Are heard in Court, but doleful ſighs and tears.</l>
+            <l>The Harp, the Organ, Flagellet and Flute,</l>
+            <l>The Violin, the Dulcimer and Lute</l>
+            <l>In ſilence hang by, in the Muſick Room,</l>
+            <l>As Rotten Ragged Scutcheons o're a Tomb.</l>
+            <l>The <hi>King</hi> now out of tune, nothing can bear,</l>
+            <l>That is Delightful to the Eye or Ear;</l>
+            <l>His thoughts preſent him <hi>Daniel</hi>'s cryes and groans,</l>
+            <l>Whilſt <hi>Lions</hi> Roar his Fun'ral o're his Bones.</l>
+            <l>But <hi>Daniel</hi>'s Muſick is to him more ſweet,</l>
+            <l>While they lye crouching proſtrate at his Feet;</l>
+            <l>They ſo melodiouſly do ſnore the Song</l>
+            <l>Of his Salvation, he can frame his Tongue</l>
+            <l>To ſing with them, and lift his voice on high,</l>
+            <l>In <hi>Hallelujahs</hi> to the <hi>Deity.</hi>
+            </l>
+            <l>His Joynts at ev'ry ſnort they breath can move,</l>
+            <l>And Dance <hi>Coranto</hi>'s to the <hi>God</hi> above.</l>
+            <l>But all this while the <hi>King</hi> is diſcontent;</l>
+            <l>Alas! he cannot yet behold th'Event</l>
+            <l>Of this <hi>Dread Tragedy,</hi> he thinks at leaſt,</l>
+            <l>
+               <hi>Daniel</hi>'s imbowel'd in thoſe Savage Beaſts;</l>
+            <l>Therefore his <hi>Princely</hi> Eyes can take no Reſt;</l>
+            <l>Sleep is a perfect ſtranger to his Eyes,</l>
+            <l>Before their Glances Gaſtly <hi>Daniel</hi> lyes;</l>
+            <l>And ſince his Beſt Beloved Watchman's gone,</l>
+            <l>He cannot ſlumber, but will watch alone.</l>
+            <l>Ah! his Dear <hi>Daniel</hi> ſleeps in Death, and ſhall</l>
+            <l>He who did love him, ſleep at's Funeral?</l>
+            <l>But all this while <hi>Daniel</hi> ſecurely lyes,</l>
+            <l>Watching amidſt his ſleeping Enemies,</l>
+            <l>And is become as a Life Guard of theirs,</l>
+            <l>Who were deſign'd his Executioners:</l>
+            <l>Their Gaſtly Eyes, and Yawning Mouths are clos'd,</l>
+            <l>They ſleep ſecure, the Heav'ns hath them Repos'd.</l>
+            <pb n="29" facs="tcp:53133:17"/>
+            <l>Mean time his pure Ejaculations fly;</l>
+            <l>His faithful Prayers mount above the Sky.</l>
+            <l>Behold a Miracle is here expreſt,</l>
+            <l>The Sacrifice doth pray, and not the Prieſt,</l>
+            <l>He prayes they may not make a Midnight Feaſt.</l>
+            <l>No ſooner did <hi>Aurora</hi> ope the Day.</l>
+            <l>Driving the Black and Darkſom Clouds away;</l>
+            <l>No ſooner were the Sable Curtains drawn,</l>
+            <l>And Dawning Brightneſs mounts the <hi>Horizon.</hi>
+            </l>
+            <l>But Great <hi>Darius</hi> Riſeth from his Bed,</l>
+            <l>To viſit <hi>Daniel,</hi> if Alive or Dead.</l>
+            <l>The firſt approaching Light his ſteps convey,</l>
+            <l>A Viſit to the <hi>Lions</hi> Den to pay;</l>
+            <l>And by his haſty Motion it appears,</l>
+            <l>He'l ſatisfie at once his hopes and fears;</l>
+            <l>His hope that <hi>Daniel</hi> lives, fills him with Joys,</l>
+            <l>His fear that he is dead, the ſame deſtroys.</l>
+            <l>
+               <hi>Darius</hi>'s heart is in the <hi>Lions</hi> Den,</l>
+            <l>And new he moves to meet his heart agen;</l>
+            <l>How briskly I behold his Royal Feet,</l>
+            <l>With nimble motion hurry through the ſtreet!</l>
+            <l>His winged thoughts fly ſwifter than a Dove,</l>
+            <l>Yet cann't ſurpaſs the motion of his Love.</l>
+            <l>He values not the Complements of State,</l>
+            <l>Nor minds if his Retinue on him wait;</l>
+            <l>Nor for his Coach or Chariot will he ſtay,</l>
+            <l>Leſt it ſhould too much of his time delay;</l>
+            <l>If he can find his <hi>Daniel</hi> but alive,</l>
+            <l>'Tis ſatisfaction in ſuperlative.</l>
+            <l>Might not <hi>Darius</hi> have a Faith which came</l>
+            <l>By its Original from <hi>Abraham?</hi>
+            </l>
+            <l>Who againſt hope, firmly in hope believes,</l>
+            <l>And ſtrongeſt Faith the moſt Aſſurance gives.</l>
+            <pb n="30" facs="tcp:53133:18"/>
+            <l>What though the <hi>Lions</hi> Beaſts of Rapine are,</l>
+            <l>And though by hunger made the eagerer;</l>
+            <l>And what though human fleſh and blood be ſweet,</l>
+            <l>A novel Diſh, and not their uſual Meat:</l>
+            <l>'Tis poſſible that Life from Death may ſpring;</l>
+            <l>Sure ſome ſuch Faith as this poſſeſſ the <hi>King.</hi>
+            </l>
+            <l>He cryes aloud, his voice the Air doth fill,</l>
+            <l>Ho! <hi>Daniel, Daniel,</hi> art thou living ſtill?</l>
+            <l>Hold, hold <hi>Darius,</hi> ceaſe thy hollow voice,</l>
+            <l>Leſt thou awake the <hi>Lions</hi> with the noiſe<g ref="char:punc">▪</g>
+            </l>
+            <l>Thy loud Allarms, thy unexpected cryes,</l>
+            <l>May Rouſe the ſavage Beaſts to Sacrifice</l>
+            <l>Thy Deareſt <hi>Daniel,</hi> who among them lyes.</l>
+            <l>If they have faſted all the night from Food,</l>
+            <l>May they not take their morning draught in blood?</l>
+            <l>And break their Faſts on that delicious Meat,</l>
+            <l>Which they laſt night ſet up and could not cat?</l>
+            <l>Brutes can no Reaſon give for their Delay,</l>
+            <l>Their ſavage Nature is for preſent prey;</l>
+            <l>They cannot truſt, but Run at all that lyes</l>
+            <l>Within the proſpect of their greedy Eyes.</l>
+            <l>Faith is a ſtranger to their Rav'nous Claws,</l>
+            <l>Senſe only cloys, or tires their greedy Jaws;</l>
+            <l>They think not of hereafter, or before,</l>
+            <l>But gorge their Guts till they can eat no more,</l>
+            <l>The <hi>King</hi> well knew, if <hi>Daniel</hi> miſt their Jaws,</l>
+            <l>'Twas Providence, not Project was the cauſe.</l>
+            <l>The <hi>King</hi>'s unchangeable Affections prove</l>
+            <l>The greater Confirmation of his Love;</l>
+            <l>His <hi>Princely</hi> Favours paſs beyond the Grave;</l>
+            <l>His Faith beyond his Senſe, what's loſt will ſave.</l>
+            <l>Through the Impenetrable Stones he calls,</l>
+            <l>His Soul wrapt up in ſighs, doth pierce the walls,</l>
+            <pb n="31" facs="tcp:53133:18"/>
+            <l>And ſafely doth arrive at <hi>Daniel</hi>'s Ears,</l>
+            <l>Whoſe Joy doth ſwell, when he his <hi>Maſter</hi> hears.</l>
+            <l>
+               <hi>Daniel,</hi> what greater honour can be ſhown?</l>
+            <l>Was ever Mottal Man ſo waited on?</l>
+            <l>Was ever Pris'ner, when condemn'd by Fate,</l>
+            <l>Attended with ſuch <hi>Majeſty</hi> and State?</l>
+            <l>Thy <hi>God</hi> within, thy <hi>King</hi> without the Gate,</l>
+            <l>Waits in his Perſon, where he ſtayes till he</l>
+            <l>The happy Proſpect of his <hi>Daniel</hi> ſee;</l>
+            <l>And to Return Thanks to thoſe ſavage Beaſts,</l>
+            <l>For their Accommodations to their Gueſts;</l>
+            <l>For they, contrary to their Nature now,</l>
+            <l>To the Beloved of their Maſter bow.</l>
+            <l>Now may you hear this worthy Porentate,</l>
+            <l>Expreſs his Soul in Accents paſſionate.</l>
+            <l>O <hi>Daniel!</hi> ſervant to the Living <hi>God,</hi>
+            </l>
+            <l>Whoſe Habitation, Dwelling and Abode,</l>
+            <l>Is in Eternal, Everlaſting Light;</l>
+            <l>Whoſe Eyes can penetrate the ſable Night,</l>
+            <l>Is thy <hi>God</hi> able by his Pow'r to free,</l>
+            <l>From Death, from Bondage, and Captivity,</l>
+            <l>Such as depend on his Ability?</l>
+            <l>
+               <hi>Darius</hi> Queries, yet is far from doubt.</l>
+            <l>His Faith confirms what he is come about,</l>
+            <l>For he affirms, <hi>thy God will ſet thee free,</hi>
+            </l>
+            <l>His Confidence was in the <hi>Deity.</hi>
+            </l>
+            <l>Experience paſt confirms his Faith the more,</l>
+            <l>That <hi>God</hi> can do, what he has done before;</l>
+            <l>He the Effects of Faith doth now embrace,</l>
+            <l>For Living <hi>Daniel</hi> ſtands before his face;</l>
+            <l>Which through the Grates no ſooner he eſples,</l>
+            <l>The ſudden Viſion doth his Soul ſurpriſe;</l>
+            <l>As in an Extaſie of Joy he ſtands,</l>
+            <l>And upwards elevates his Princely hands;</l>
+            <pb n="32" facs="tcp:53133:19"/>
+            <l>Being ſtruck dumb with admiration, hears</l>
+            <l>His <hi>Daniels</hi> voice approach his <hi>Royal</hi> Ears,</l>
+            <l>In the ſame ſtile, in the ſame Loyal ſound,</l>
+            <l>
+               <hi>O King</hi> for ever live, live ever Crown'd</l>
+            <l>With the Celeſtial <hi>Diadem</hi> of <hi>Glory.</hi>
+            </l>
+            <l>When thou haſt perfected thy Earthly Story.</l>
+            <l>Praiſes aſcend from me to God above,</l>
+            <l>That he the heart of my <hi>dread</hi> Lord did move,</l>
+            <l>Thus to beſtow on me his <hi>princely</hi> Love.</l>
+            <l>From Prayer he to Preaching doth proceed,</l>
+            <l>Though from his Chappel yet he is not freed.</l>
+            <l>The <hi>King</hi> ſtands in the porch and doth not ſtir,</l>
+            <l>But is content to be his Auditer:</l>
+            <l>Into two Branches he his theam doth bring,</l>
+            <l>Leaving the Application to the <hi>King;</hi>
+            </l>
+            <l>He firſt the goodneſs of his <hi>God</hi> declares,</l>
+            <l>Next his own innocency he avers:</l>
+            <l>And theſe two points doth he unite to prove,</l>
+            <l>The mighty <hi>God</hi> doth Innocency love,</l>
+            <l>His Duty he from hence doth juſtifie,</l>
+            <l>Both to <hi>Divine</hi> and Earthly Majeſty.</l>
+            <l>Such cannot be unfaithful to their King,</l>
+            <l>Who to their God are juſt in ev'ry thing;</l>
+            <l>
+               <hi>Darius</hi> ne're was ſatisfied more,</l>
+            <l>In any Sermon he e're heard before;</l>
+            <l>The Surly <hi>Lyons</hi> ſeem to underſtand,</l>
+            <l>And watch the motion of his Lip and Hand,</l>
+            <l>How mute, and how demure they ſit and hear,</l>
+            <l>As if his voice were muſick to the Ear.</l>
+            <l>And if his ſilence ſo much aw'd their ſence,</l>
+            <l>How were they charmed with his Eloquence.</l>
+            <l>Experience worketh confidence, for he</l>
+            <l>Can the Beaſts Love, and his own ſafety ſee,</l>
+            <pb n="33" facs="tcp:53133:19"/>
+            <l>Well may he truſt whom he hath found his Friends,</l>
+            <l>One Mercy on another ſtill depends,</l>
+            <l>The ſame deliv'rance which firſt ſet him free,</l>
+            <l>Makes him ſtill truſt in its ſecurity;</l>
+            <l>That which the Lyon and the Bear ſubdue,</l>
+            <l>Was the ſame Faith which the <hi>Philiſtine</hi> ſlew,</l>
+            <l>The <hi>Iſraelites</hi> on th'other ſhore that ſtood,</l>
+            <l>Were ſureties for ſuch as paſs the flood:</l>
+            <l>So the ſame ſaith, as firmly doth ingage</l>
+            <l>Still to preſerve, as firſt to ſtay the rage</l>
+            <l>Of the fierce <hi>Lyons</hi> till the Charm be paſt,</l>
+            <l>Which clearly quits the Innocent, and Chaſt,</l>
+            <l>Which by his faith is juſtifi'd at laſt:</l>
+            <l>The Sermon being done, the Seals are tore,</l>
+            <l>And open flies the ſtony Chappel door:</l>
+            <l>The Captive iſſues forth, where ſoon he ſpies</l>
+            <l>His <hi>Royal Prince</hi> wrapt up in extaſies:</l>
+            <l>He's Heaven ſtruck with Joy and admiration,</l>
+            <l>His Soul is rap't in Divine Contemplation,</l>
+            <l>He like a Statue ſtands, fixt and unmov'd,</l>
+            <l>His Royal Eyes gaze on his beſt belov'd,</l>
+            <l>His raviſht thoughts are glutted with exceſs</l>
+            <l>Of Heav'nly Raptures, which he can't expreſs.</l>
+            <l>After ſome pauſe,—deliberately he</l>
+            <l>Doth reaſſume the thoughts of Majeſty,</l>
+            <l>And thundering forth with terrour on his Brow,</l>
+            <l>Thoſe dreadful mandates which muſt follow now;</l>
+            <l>Orders for Execution forth are ſent,</l>
+            <l>In favour of his <hi>Lord High Preſident:</hi>
+            </l>
+            <l>Thoſe who have his deſtruction thus deſign'd,</l>
+            <l>Muſt the revenge of great <hi>Darius</hi> find:</l>
+            <l>Thoſe who his life have <hi>plotted</hi> to betray,</l>
+            <l>Shall their own lives, inſtead of <hi>Daniels</hi> pay,</l>
+            <l>What they would take from him, they down muſt lay.</l>
+            <pb n="34" facs="tcp:53133:20"/>
+            <l>This Day's Deliverance is of high Eſteem,</l>
+            <l>When Heav'n Beloved <hi>Daniel</hi> did Redeem;</l>
+            <l>And now the <hi>King</hi> Reſolves to keep a Feaſt,</l>
+            <l>In Memory of his Reprieved Gueſt;</l>
+            <l>But the firſt Courſe he to the <hi>Lions</hi> ſends,</l>
+            <l>To make their faſting Appetites amends;</l>
+            <l>They could not taſt the Diſh that firſt was dreſt,</l>
+            <l>Therefore the <hi>King</hi> ſupplies 'em with a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt;</l>
+            <l>Varieties of Sexes, choice of Meat,</l>
+            <l>'Cauſe on a ſingle Diſh they cannot eat;</l>
+            <l>On which, when ſerv'd, their eager ſtomachs feed,</l>
+            <l>They have not patience till the Cloth be ſpread.</l>
+            <l>
+               <hi>Daniel</hi> gave Thanks before, they ſcorn the faſhion,</l>
+            <l>But fall on boldly without Invitation;</l>
+            <l>They're ſo impatient, that they cannot ſtay,</l>
+            <l>But meet each Courſe while in the middle way;</l>
+            <l>Ere the Meat comes to Table they devour,</l>
+            <l>And drink Carouzes to the <hi>Emperour,</hi>
+            </l>
+            <l>In the hearts-blood of theſe <hi>Man catching</hi> Feinds,</l>
+            <l>Thoſe vile <hi>Trappaners</hi> of the <hi>King</hi>'s beſt Friends;</l>
+            <l>The crackling of whoſe Joynts their Muſick is;</l>
+            <l>They find no ſweeter Melody than this;</l>
+            <l>And having ſup't, betake themſelves to Reſt,</l>
+            <l>Well ſatisfi'd with this Delicious Feaſt,</l>
+            <l>Till they awake, and Rouſe themſelves agen,</l>
+            <l>To overlook the Fragments in the Den;</l>
+            <l>They ready are for more, if more there be</l>
+            <l>Found acting <hi>Treaſon</hi> 'gainſt his <hi>Majeſty.</hi>
+            </l>
+            <l>Thirſting with greedy Appetites for Blood,</l>
+            <l>As thoſe Men did, who lately were their food.</l>
+            <l>And 'tis but Nat'ral, that the Fleſh of thoſe</l>
+            <l>Monſters of Nature, whoſe Deſigns oppoſe</l>
+            <l>Sov'regnity in <hi>Monarchs,</hi> and contrive</l>
+            <l>His Beſt of Subjects to Intomb alive;</l>
+            <pb n="35" facs="tcp:53133:20"/>
+            <l>'Tis natural I ſay, that ſuch ſhould be</l>
+            <l>Incorporate in <hi>Inhumanity.</hi>
+            </l>
+            <l>To ſavage Nature they degenerate,</l>
+            <l>Savage they are, and in that ſavage ſtate,</l>
+            <l>They juſtly are condemn'd to ſavage fate.</l>
+            <l>No need of Proceſs, Summoning, or Juries;</l>
+            <l>He who Infallibly both Juſt and Pure is,</l>
+            <l>Sits Judge in Court, he who alone ſurveys</l>
+            <l>Dark obſcure thoughts, untrodden crooked waies</l>
+            <l>Of ſinful Mortals; he who ſits on high</l>
+            <l>Condemns, and who ſhall dare to juſtifie?</l>
+            <l>'Twas he thoſe Catifs to deſtruction hurld,</l>
+            <l>And by his Miracle convinc'd the world.</l>
+            <l>It is a <hi>Maxim</hi> Politick in State,</l>
+            <l>And the prime Leſſon of a Potentate,</l>
+            <l>To fix the <hi>Crown</hi> on his own Temples ſure,</l>
+            <l>And in his Royal <hi>Throne</hi> to ſit ſecure;</l>
+            <l>Therefore at firſt remov's what may impede</l>
+            <l>The Diadems fixation on his head;</l>
+            <l>And if Conſpiracy hereafter moves</l>
+            <l>So loſty as to ſtrike at what he loves,</l>
+            <l>Then Policy calls Majeſty to rouſe,</l>
+            <l>And his Beloved Subjects Cauſe eſpouſe:</l>
+            <l>For ſuch as venture at his Royal Breaſt,</l>
+            <l>To rend from thence what he doth value beſt,</l>
+            <l>Will the next onſet ravenouſly fly</l>
+            <l>To ſtrike the very Heart of <hi>Majeſty;</hi>
+            </l>
+            <l>That inſolence which dares attempt the one,</l>
+            <l>Dares undermine, or overthrow the Throne.</l>
+            <l>The Great <hi>Darius</hi> will decree o<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more,</l>
+            <l>But not againſt the Heavens, as before,</l>
+            <l>He will be God no longer, but lay down</l>
+            <l>His Divine Title for a mortal one.</l>
+            <gap reason="missing" resp="#OXF" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
